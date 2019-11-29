@@ -1,0 +1,6 @@
+C:\Users\e10d1\source\repos\Beocat\Beocat\bin\Release\Beocat.exe.config
+C:\Users\e10d1\source\repos\Beocat\Beocat\bin\Release\Beocat.exe
+C:\Users\e10d1\source\repos\Beocat\Beocat\bin\Release\Beocat.pdb
+C:\Users\e10d1\source\repos\Beocat\Beocat\obj\Release\Beocat.csproj.CoreCompileInputs.cache
+C:\Users\e10d1\source\repos\Beocat\Beocat\obj\Release\Beocat.exe
+C:\Users\e10d1\source\repos\Beocat\Beocat\obj\Release\Beocat.pdb
